@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="200" viewBox="0 0 1500 200">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 150px;
+      }
+
+      .cls-1 {
+        fill: #071408;
+      }
+
+      .cls-1, .cls-2, .cls-5 {
+        font-family: "Myriad Pro";
+        font-weight: 700;
+        font-style: italic;
+      }
+
+      .cls-2, .cls-5 {
+        fill: #1ec92a;
+      }
+
+      .cls-3 {
+        font-size: 158.333px;
+      }
+
+      .cls-4 {
+        font-size: 100px;
+      }
+
+      .cls-5 {
+        font-size: 41.667px;
+      }
+    </style>
+  </defs>
+  <text id="Lorem_Ipsum" data-name="Lorem Ipsum" class="cls-1" x="1714.245" y="-460.5">Lorem Ipsum</text>
+  <text id="DESIGNPROWORKS.COM" class="cls-2" x="-4.25" y="190.5">DESIGNPROWORKS<tspan class="cls-3">.<tspan class="cls-4">COM</tspan></tspan></text>
+  <text id="HTTP:_" data-name="HTTP://" class="cls-5" x="2" y="51.25">HTTP://</text>
+</svg>

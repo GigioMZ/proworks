@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2171.521" height="499.991" viewBox="0 0 6215 1431">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 883.333px;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        fill: #1ec92a;
+        font-family: "Myriad Pro";
+        font-weight: 700;
+        font-style: italic;
+      }
+
+      .cls-2 {
+        font-size: 416.667px;
+      }
+
+      .cls-3 {
+        font-size: 316.667px;
+      }
+
+      .cls-4 {
+        font-size: 333.333px;
+      }
+    </style>
+  </defs>
+  <text id="DesignProworks" class="cls-1" transform="translate(-42.397 1188.46) scale(0.995 1.307)">DesignProworks</text>
+  <text id="HTTP:_" data-name="HTTP://" class="cls-2" x="-5.473" y="297.783">HTTP:<tspan class="cls-3">//</tspan></text>
+  <text id="_.COM" data-name=".COM" class="cls-4" x="5382.24" y="281.727">.COM</text>
+</svg>
