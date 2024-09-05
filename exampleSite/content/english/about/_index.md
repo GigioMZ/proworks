@@ -1,9 +1,9 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Hey, I am John Silva!"
 meta_title: "About"
 description: "this is meta description"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+I am a Architectual Engineer and have been designing for quite sometime now. Please have a look around my galleries (Design and Build Blueprints, building permits, assembly drawings, as built drawings, 3D Solid models, custom home office, 3D Printing, Project Management, Solidworks, Autodesk Inventor, website design [like this one]) while you are here these are projects that I have completed sucessfully and were able to be apart of with thanks to many people who are probably looking at this right now and saying wow this is true.
