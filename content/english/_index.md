@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter You Need To Complete Your Project or Idea!"
+  title: "The Ultimate Starter; Welcome to Designproworks"
   content: "Designproworks is a starter built company with Engineering and Experience, providing everything you need to jumpstart your project and save valuable time."
   image: "/images/banner.png"
   button:
     enable: true
     label: "Enter Site Here"
-    link: "https://john1-design.github.io/proworks"
+    link: "https://john1-design.github.io/info"
 
 # Features
 features:
@@ -36,7 +36,7 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://john1-design.github.io/proworks"
+      link: "https://john1-design.github.io/info"
 
   - title: "The Top Reasons to Choose Designproworks for your Project"
     image: "/images/service-3.png"
