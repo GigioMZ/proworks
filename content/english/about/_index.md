@@ -1,5 +1,5 @@
 ---
-title: "Hey, I am John Silva!"
+title: "Hey, I am John De Silva!"
 meta_title: "About"
 description: "this is meta description"
 image: "/images/avatar.png"
