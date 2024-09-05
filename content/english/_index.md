@@ -1,12 +1,12 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter You Need To Start or Complete Your Project"
-  content: "Designproworks is a free starter built with Engineering and Experience, providing everything you need to jumpstart your project and save valuable time."
+  title: "The Ultimate Starter You Need Complete Your Project or Idea!"
+  content: "Designproworks is a starter built company with Engineering and Experience, providing everything you need to jumpstart your project and save valuable time."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Contact Us For Free"
+    label: "Enter Site Here"
     link: "https://designproworks.com"
 
 # Features
