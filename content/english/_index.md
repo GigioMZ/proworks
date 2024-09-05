@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Enter Site Here"
-    link: "https://designproworks.com"
+    link: "https://john1-design.github.io/proworks"
 
 # Features
 features:
@@ -36,7 +36,7 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://designproworks.com"
+      link: "https://john1-design.github.io/proworks"
 
   - title: "The Top Reasons to Choose Designproworks for your Project"
     image: "/images/service-3.png"
