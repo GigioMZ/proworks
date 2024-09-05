@@ -1,6 +1,6 @@
 ---
-title: John Doe
-email: johndoe@email.com
+title: John De Silva
+email: desilva.john1@gmail.com
 image: "/images/avatar.png"
 description: this is meta description
 social:
@@ -17,4 +17,4 @@ social:
     link: https://linkedin.com
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+This is my first website design/portfolio/landingpage. It started as a landing page now it's super fancy thank-you all!
