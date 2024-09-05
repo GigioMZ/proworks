@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter You Need Complete Your Project or Idea!"
+  title: "The Ultimate Starter You Need To Complete Your Project or Idea!"
   content: "Designproworks is a starter built company with Engineering and Experience, providing everything you need to jumpstart your project and save valuable time."
   image: "/images/banner.png"
   button:
@@ -26,21 +26,21 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Discover the Key Features Of Designpro"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Designpro is an all-in-one framework for building fast, content-focused hands-on projects, blueprints or websites. We offers a range of exciting features for anyone. Some of the key features are:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "overhead to slow you down"
+      - "Customizable: Tailwind, and 10+ other integrations to choose from."
+      - "Supports Solidworks, Autodesk, MasterCAM, AutoCAD, Blender, 3D Printing and more."
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "https://designproworks.com"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "The Top Reasons to Choose Designproworks for your Project"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "With Designpro, you can build modern and content-focused projects/ideas without sacrificing performance or ease of use."
     bulletpoints:
       - "Instantly load static sites for better user experience and SEO."
       - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
