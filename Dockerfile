@@ -1,7 +1,7 @@
 # Use a base image with Hugo installed
 FROM klakegg/hugo:0.124.1-ext
 
-# Install dependencies for Yarn
+# Install dependencies for Node.js and Yarn
 RUN apk add --no-cache curl
 
 # Install Node.js
