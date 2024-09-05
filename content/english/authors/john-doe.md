@@ -17,4 +17,4 @@ social:
     link: https://linkedin.com
 ---
 
-This is my first website design/portfolio/landingpage. It started as a landing page now it's super fancy thank-you all!
+Website design/portfolio/landingpage. It started as a landing page now it's super fancy thank-you all! Please see the gallery.
